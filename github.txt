@@ -1,0 +1,9 @@
+github
+organization name
+https://github.com/BishalDevops
+
+
+repo:
+https://github.com/BishalDevops/BigBasket.git
+
+team--https://github.com/orgs/BishalDevops/teams/bigbasket-sunita
